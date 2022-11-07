@@ -6,3 +6,7 @@ infosys
 Verizon
 Techmahindra
 Dell
+TCS
+HTC
+Samsung
+lenovo
