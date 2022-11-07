@@ -5,3 +5,4 @@ Amazon
 infosys
 Verizon
 Techmahindra
+Dell

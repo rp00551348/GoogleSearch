@@ -1,0 +1,11 @@
+Total Automation Cost include
+
+
+Infrastructure Cost(ServerVM/Cloud fees):- One Time-CAPEx
+
+Development Cost(No. of Days Spent * Cost per day for dev reosurce)- one Time
+Automation Tool Cost(License)
+
+Maintenance Cost(Monitoring+Support Cost):- Recurrence- OPEX
+
+ROI:- FTE Benefits - Total Automation Cost
