@@ -1,12 +1,9 @@
 Microsoft
 Google
 Wipro
-Amazon
-infosys
-Verizon
-Techmahindra
-Dell
-TCS
-HTC
+NTPC
+BHEL
+Lenovo
+HTC 
 Samsung
-lenovo
+
